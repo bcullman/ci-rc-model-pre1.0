@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0-rc.0](https://github.com/bcullman/ci-rc-model/compare/v0.1.1-rc.0...v0.2.0-rc.0) (2020-12-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* this was a test breakign chagne
+
+### Features
+
+* add dummy breadkingnchagne ([#13](https://github.com/bcullman/ci-rc-model/issues/13)) ([fa3c7a4](https://github.com/bcullman/ci-rc-model/commit/fa3c7a4b935e26120b4d244b5dea938313361e37))
+
 ### [0.1.1-rc.0](https://github.com/bcullman/ci-rc-model/compare/v0.1.0...v0.1.1-rc.0) (2020-12-02)
 
 

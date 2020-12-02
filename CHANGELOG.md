@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.1-rc.0](https://github.com/bcullman/ci-rc-model/compare/v0.1.0...v0.1.1-rc.0) (2020-12-02)
+
+
+### Bug Fixes
+
+* add dummy tesxt for fix demo ([#12](https://github.com/bcullman/ci-rc-model/issues/12)) ([9a9bf67](https://github.com/bcullman/ci-rc-model/commit/9a9bf67f2d3a7c9513977cb18ed95fee765e2928))
+
 ## [0.1.0](https://github.com/bcullman/ci-rc-model/compare/v0.1.0-rc.0...v0.1.0) (2020-12-02)
 
 ## [0.1.0-rc.0](https://github.com/bcullman/ci-rc-model/compare/v0.0.3-rc.0...v0.1.0-rc.0) (2020-12-02)

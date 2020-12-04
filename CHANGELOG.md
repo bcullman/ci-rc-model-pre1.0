@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.2-rc.1](https://github.com/bcullman/ci-rc-model/compare/v0.2.2-rc.0...v0.2.2-rc.1) (2020-12-04)
+
+
+### Bug Fixes
+
+* badge ([#16](https://github.com/bcullman/ci-rc-model/issues/16)) ([b68d3cf](https://github.com/bcullman/ci-rc-model/commit/b68d3cfb805d1aee49719e644666a23ae7de69e1))
+
 ### [0.2.2-rc.0](https://github.com/bcullman/ci-rc-model/compare/v0.2.1...v0.2.2-rc.0) (2020-12-04)
 
 ### [0.2.1](https://github.com/bcullman/ci-rc-model/compare/v0.2.1-rc.0...v0.2.1) (2020-12-03)
